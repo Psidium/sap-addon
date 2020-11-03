@@ -18,6 +18,7 @@ const inputIds = [
     "github-sign-in", "github-hide-notice-overlay", "github-show-names", "github-get-names-from-people",
     "fiori-lunchmenu-german",
     "sharepoint-login",
+    "id-service-focus-2fa-passcode-input",
 ];
 const buttonInputIds = [
     "github-hide-notice-show-all-again",

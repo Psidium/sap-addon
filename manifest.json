@@ -37,6 +37,15 @@
         "content_scripts/sharepoint.js"
       ],
       "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "*://accounts.sap.com/*"
+      ],
+      "js": [
+        "content_scripts/id_service.js"
+      ],
+      "run_at": "document_start"
     }
   ],
   "permissions": [
