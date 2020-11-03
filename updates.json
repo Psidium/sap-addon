@@ -1,23 +1,11 @@
 {
   "addons": {
-    "{1375a016-3548-4cc2-a6c9-290f24b5b53d}": {
+    "{59bee8c9-03de-49e6-9112-68e19efea5e1}": {
       "updates": [
         {
-          "version": "1.11.3",
-          "update_link": "https://nikolockenvitz.github.io/sap-addon/xpi/sap_addon-1.11.3-fx.xpi",
-          "update_hash": "sha256:d815ad8866b60ced17f54a41c9fa576d3f4d9107a13631ce4cec599711f59588"
-        }, {
-          "version": "1.12",
-          "update_link": "https://nikolockenvitz.github.io/sap-addon/xpi/sap_addon-1.12-fx.xpi",
-          "update_hash": "sha256:4b29ef8720785d78b741326e21ca769df4f271d90c95f23d314e6fbeff50fe1d"
-        }, {
-          "version": "1.13.9",
-          "update_link": "https://nikolockenvitz.github.io/sap-addon/xpi/sap_addon-1.13.9-fx.xpi",
-          "update_hash": "sha256:4a85731c4f6c37f7685c12dccdffd337e35240672e5ced884c24645db6648ed2"
-        }, {
-          "version": "1.14.0",
-          "update_link": "https://nikolockenvitz.github.io/sap-addon/xpi/sap_addon-1.14.0-fx.xpi",
-          "update_hash": "sha256:c6462892496460f5cdfe44c7fd0fbfba4aaa4902dfea31d2cf3f2762950dea00"
+          "version": "1.14.1",
+          "update_link": "https://github.com/nikolockenvitz/sap-addon/raw/firefox-permission-test/xpi/sap_addon_beta-1.14.1-fx.xpi",
+          "update_hash": "sha256:ebda28d1c50caba763155497338b490e09fc254a084285b7e070a306fed2c871"
         }
       ]
     }
