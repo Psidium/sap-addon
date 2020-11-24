@@ -11,6 +11,11 @@
           "version": "1.14.2",
           "update_link": "https://github.com/nikolockenvitz/sap-addon/raw/firefox-permission-test/xpi/sap_addon_beta-1.14.2-fx.xpi",
           "update_hash": "sha256:0a603548411154ec8e2feb12fdfc1ea811601375595d734f7d2852a6525800ec"
+        },
+        {
+          "version": "1.14.3",
+          "update_link": "https://nikolockenvitz.github.io/sap-addon/xpi/sap_addon_beta-1.14.3-fx.xpi",
+          "update_hash": "sha256:19d74d457de9570bbe32d019dbb1bdebd6e13d6742ef8687ef4bf18d07b06473"
         }
       ]
     }
